@@ -26,6 +26,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
    
     signUpButton.addEventListener('click', () => {
         alert('Registered successfully');
-        window.location.href = 'login.html';
+        window.location.href = 'index1.html';
     });
 });
